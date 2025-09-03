@@ -1,0 +1,8 @@
+Subject: Urgent Account Suspension Notice
+
+Dear user,
+
+We have detected suspicious activity on your account.
+Please verify your identity immediately: http://phishy-login.com/login
+
+Thank you.
